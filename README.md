@@ -21,10 +21,7 @@ Brindar una solución de comercio electrónico que sea útil, accesible y flexib
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+Para ejecutar el backend de la tienda **Help People** en un entorno local, es necesario cumplir con los siguientes requisitos y configuraciones:
 
 ### Pre-requisitos 📋
 

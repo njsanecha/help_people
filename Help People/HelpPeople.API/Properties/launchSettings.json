@@ -19,7 +19,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "https": {
+    "help_people": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

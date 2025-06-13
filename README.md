@@ -15,7 +15,7 @@ La plataforma permite agregar productos al carrito y gestionar sus cantidades, a
 Incluye funcionalidades CRUD (Crear, Leer, Editar, Eliminar) tanto para productos como para categorías, facilitando la administración del contenido de la tienda por parte del equipo responsable.
 
 
-## Objetivo del Proyecto:
+## Objetivo del Proyecto
 Brindar una solución de comercio electrónico que sea útil, accesible y flexible, promoviendo una experiencia de compra satisfactoria para los usuarios y una gestión eficiente para los administradores.
 
 

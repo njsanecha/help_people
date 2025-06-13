@@ -1,0 +1,6 @@
+@HelpPeople.API_HostAddress = http://localhost:5276
+
+GET {{HelpPeople.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

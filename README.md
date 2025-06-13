@@ -42,8 +42,8 @@ El backend del proyecto ha sido desarrollado utilizando en **.NET** y **SQL Serv
 **1. Clona el repositorio del proyecto:**
 
    ```bash
-   git clone https://github.com/tu-usuario/help-people.git
-   cd help-people
+   git clone https://github.com/njsanecha/help_people.git
+   cd help_people
    ```
 
 **2. Abre el proyecto en Visual Studio Code:**

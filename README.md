@@ -3,7 +3,7 @@
 _Help People es una tienda de compras en línea diseñada para ser accesible y funcional para todos. Su objetivo principal es ofrecer una experiencia de usuario sencilla, eficiente e inclusiva, permitiendo a los usuarios explorar una amplia variedad de productos, conocer sus detalles, y adquirir lo que necesiten de manera fácil y rápida._
 
 
-## Características Principales:
+## Características Principales
 
 **Exploración de productos:**
 Los usuarios pueden navegar por un catálogo diverso de productos, organizado por categorías, con información detallada de cada artículo (nombre, descripción, precio, imagen, etc.).
@@ -38,20 +38,20 @@ Para ejecutar el backend de la tienda **Help People** en un entorno local, es ne
 
 ### Instalación 🔧
 
-1. **Clona el repositorio del proyecto:**
+**1. Clona el repositorio del proyecto:**
 
    ```bash
    git clone https://github.com/tu-usuario/help-people.git
    cd help-people
    ```
 
-2. **Abre el proyecto en Visual Studio Code:**
+**2. Abre el proyecto en Visual Studio Code:**
 
    ```bash
    code .
    ```
 
-3. **Configura la cadena de conexión:**
+**3. Configura la cadena de conexión:**
 
    Abre el archivo `appsettings.Development.json` y modifica la sección `ConnectionStrings` con los datos de tu servidor SQL:
 
@@ -63,18 +63,18 @@ Para ejecutar el backend de la tienda **Help People** en un entorno local, es ne
    }
    ```
 
-4. **Crear la base de datos (si es necesario):**
+**4. Crear la base de datos (si es necesario):**
 
    * Asegúrate de que la base de datos `HelpPeople` exista o usa migraciones para crearla automáticamente (si se está usando Entity Framework). 
    * Los SCRIPTS para la creación de las tablas de la base de datos estan disponibles en el repositorio.
 
-5. **Ejecuta la API:**
+**5. Ejecuta la API:**
 
    ```bash
    dotnet run
    ```
 
-6. **Acceder a la API:**
+**6. Acceder a la API:**
 
    * Una vez ejecutada, la API estará disponible en `https://localhost:7125` o `http://localhost:5276`, según la configuración del proyecto.
 

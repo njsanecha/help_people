@@ -5,17 +5,17 @@ _Help People es una tienda de compras en línea diseñada para ser accesible y f
 
 ## Características Principales
 
-**Exploración de productos:**
+**🔹 Exploración de productos:**
 Los usuarios pueden navegar por un catálogo diverso de productos, organizado por categorías, con información detallada de cada artículo (nombre, descripción, precio, imagen, etc.).
 
-**Carrito de compras y checkout:**
+**🔹 Carrito de compras y checkout:**
 La plataforma permite agregar productos al carrito y gestionar sus cantidades, además de realizar el proceso de compra completo a través de un sistema de checkout intuitivo.
 
-**Gestión de categorías y productos:**
+**🔹 Gestión de categorías y productos:**
 Incluye funcionalidades CRUD (Crear, Leer, Editar, Eliminar) tanto para productos como para categorías, facilitando la administración del contenido de la tienda por parte del equipo responsable.
 
 
-## Objetivo del Proyecto
+## Objetivo del Proyecto ✅
 Brindar una solución de comercio electrónico que sea útil, accesible y flexible, promoviendo una experiencia de compra satisfactoria para los usuarios y una gestión eficiente para los administradores.
 
 
@@ -23,14 +23,18 @@ Brindar una solución de comercio electrónico que sea útil, accesible y flexib
 
 Para ejecutar el backend de la tienda **Help People** en un entorno local, es necesario cumplir con los siguientes requisitos y configuraciones:
 
+
 ### Pre-requisitos 📋
 
-Para ejecutar el backend de la tienda **Help People** en un entorno local, es necesario cumplir con los siguientes requisitos y configuraciones:
+El backend del proyecto ha sido desarrollado utilizando en **.NET** y **SQL Server**, proporcionando una interfaz rápida, moderna y totalmente responsiva.
 
-* [.NET SDK](https://dotnet.microsoft.com/download) (versión compatible con el proyecto)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (instancia local o en la nube)
-* Herramientas de migración de Entity Framework Core (opcional pero recomendado)
+🔹 [.NET SDK](https://dotnet.microsoft.com/download) (versión compatible con el proyecto)
+
+🔹 [Visual Studio Code](https://code.visualstudio.com/)
+
+🔹 [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (instancia local o en la nube)
+
+🔹 Herramientas de migración de Entity Framework Core (opcional pero recomendado)
 
 
 ### Instalación 🔧
@@ -62,8 +66,9 @@ Para ejecutar el backend de la tienda **Help People** en un entorno local, es ne
 
 **4. Crear la base de datos (si es necesario):**
 
-   * Asegúrate de que la base de datos `HelpPeople` exista o usa migraciones para crearla automáticamente (si se está usando Entity Framework). 
-   * Los SCRIPTS para la creación de las tablas de la base de datos estan disponibles en el repositorio.
+   🔹 Asegúrate de que la base de datos `HelpPeople` exista o usa migraciones para crearla automáticamente (si se está usando Entity Framework). 
+   
+   🔹 Los SCRIPTS para la creación de las tablas de la base de datos estan disponibles en el repositorio.
 
 **5. Ejecuta la API:**
 
@@ -73,7 +78,8 @@ Para ejecutar el backend de la tienda **Help People** en un entorno local, es ne
 
 **6. Acceder a la API:**
 
-   * Una vez ejecutada, la API estará disponible en `https://localhost:7125` o `http://localhost:5276`, según la configuración del proyecto.
+   🔹 Una vez ejecutada, la API estará disponible en `https://localhost:7125` o `http://localhost:5276`, según la configuración del proyecto.
+
 
 
 ## Autor ✒️
